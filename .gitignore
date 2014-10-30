@@ -1,0 +1,15 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin/
+obj/
+# VS user preference configs, specific to your machine
+*.suo
+*.csproj.user
+*.DotSettings.user
+*.dll
+*.pdb
+# Nuget packages dir. 
+packages/
+*.ncrunchsolution
+*.ncrunchsolution.user
+*.ncrunchproject
+_NCrunch_Katas*/
